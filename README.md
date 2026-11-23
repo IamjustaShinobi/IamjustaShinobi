@@ -1,4 +1,5 @@
- <!-- ═══════════════════════════════════════════════════════════════════ -->
+ 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                     ⚡ SHINOBI | PROFILE ⚡                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -7,8 +8,8 @@
 <img src="./Github.gif" alt="Shinobi Hacker Banner" width="100%" />
 
 <br/>
-<pre align="center">
 
+<pre align="center">
 ███████╗██╗  ██╗██╗███╗   ██╗ ██████╗ ██████╗ ██╗
 ██╔════╝██║  ██║██║████╗  ██║██╔═══██╗██╔══██╗██║
 ███████╗███████║██║██╔██╗ ██║██║   ██║██████╔╝██║
@@ -16,8 +17,6 @@
 ███████║██║  ██║██║██║ ╚████║╚██████╔╝██████╔╝██║
 ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝
 </pre>
-
-```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=800&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Cyber+Security+Student+%F0%9F%94%90;Breaking+things+to+learn+how+they+work+%F0%9F%92%A5;Linux+Daily+Driver+%F0%9F%90%A7;Docker+%7C+LXD+%7C+LXC+Container+Wizard+%F0%9F%93%A6;PASSIONATE+%7C+CURIOUS+%7C+RELENTLESS+%E2%9A%A1" alt="Typing SVG" />
 
@@ -34,9 +33,9 @@
 ```bash
 #!/usr/bin/env bash
 
-# ───────────────────────────────────────────────────────────────
-#  Loading profile: shinobi.exe
-# ───────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
+# Loading profile: shinobi.exe
+# ──────────────────────────────────────────────────────────────
 
 NAME="Shinobi"
 ROLE="Cyber Security Student"
@@ -73,7 +72,9 @@ class Hacker:
             "Docker", "LXD", "LXC", "Linux", "Bash"
         ]
 
-        self.distros = ["Arch Linux", "Ubuntu", "Kali Linux"]
+        self.distros = [
+            "Arch Linux", "Ubuntu", "Kali Linux"
+        ]
 
         self.vibe = "I break things to understand them better."
         self.state = "PASSIONATE"
@@ -93,27 +94,27 @@ shinobi = Hacker()
 
 ### 🐍 Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="GNU Bash" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="GNU Bash" />
 
 ### 🐳 Containers & Virtualization
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/LXD-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="LXD" />
-<img src="https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="LXC" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/LXD-333333?style=for-the-badge&amp;logo=linuxcontainers&amp;logoColor=white" alt="LXD" />
+<img src="https://img.shields.io/badge/LXC-333333?style=for-the-badge&amp;logo=linuxcontainers&amp;logoColor=white" alt="LXC" />
 
-### 🐧 Distros I Use
+### 🐧 Linux Distributions
 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
 
 </div>
 
@@ -153,8 +154,6 @@ shinobi = Hacker()
 
 <div align="center">
 
-<!-- Replace the placeholder URLs with your actual profile URLs. -->
-
 <a href="https://medium.com/@sidekamm">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" />
 </a>
@@ -163,7 +162,7 @@ shinobi = Hacker()
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://profile.hackthebox.com/profile/019cb007-8e37-7389-9c0e-37da0bcda3be?utm_medium=copy_url">
+<a href="https://profile.hackthebox.com/profile/019cb007-8e37-7389-9c0e-37da0bcda3be">
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box" />
 </a>
 
