@@ -7,14 +7,16 @@
 <img src="./Github.gif" alt="Shinobi Hacker Banner" width="100%" />
 
 <br/>
+<pre align="center">
 
-```text
 ███████╗██╗  ██╗██╗███╗   ██╗ ██████╗ ██████╗ ██╗
 ██╔════╝██║  ██║██║████╗  ██║██╔═══██╗██╔══██╗██║
 ███████╗███████║██║██╔██╗ ██║██║   ██║██████╔╝██║
 ╚════██║██╔══██║██║██║╚██╗██║██║   ██║██╔══██╗██║
 ███████║██║  ██║██║██║ ╚████║╚██████╔╝██████╔╝██║
 ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝
+</pre>
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=800&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Cyber+Security+Student+%F0%9F%94%90;Breaking+things+to+learn+how+they+work+%F0%9F%92%A5;Linux+Daily+Driver+%F0%9F%90%A7;Docker+%7C+LXD+%7C+LXC+Container+Wizard+%F0%9F%93%A6;PASSIONATE+%7C+CURIOUS+%7C+RELENTLESS+%E2%9A%A1" alt="Typing SVG" />
@@ -153,15 +155,15 @@ shinobi = Hacker()
 
 <!-- Replace the placeholder URLs with your actual profile URLs. -->
 
-<a href="YOUR_MEDIUM_PROFILE_URL">
+<a href="https://medium.com/@sidekamm">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" />
 </a>
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="https://www.linkedin.com/in/syedumerbinshariq/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="YOUR_HTB_PROFILE_URL">
+<a href="https://profile.hackthebox.com/profile/019cb007-8e37-7389-9c0e-37da0bcda3be?utm_medium=copy_url">
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box" />
 </a>
 
@@ -219,9 +221,9 @@ grinding:
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║   [ SYSTEM ACCESS LOG ]                                      ║
-║   user    : shinobi                                           ║
-║   access  : GRANTED                                           ║
-║   message : Thanks for visiting. Now go break something. 😈   ║
+║   user    : shinobi                                          ║
+║   access  : GRANTED                                          ║
+║   message : Thanks for visiting. Now go break something. 😈  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
